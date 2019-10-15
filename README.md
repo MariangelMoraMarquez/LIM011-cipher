@@ -1,1 +1,1 @@
-![Pantalla.1!](/imagenes/Diapositiva.jpg "Philadelphia's Magic Gardens")
+![Pantalla.1!](/Imagenes/Diapositiva.jpg "pantalla1")
