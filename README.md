@@ -58,6 +58,9 @@ Agregar un resumen del feedback recibido indicando las mejoras a realizar.
 Imagen del prototipo final.
 
 ![Prototipo.1!](/imagenes/Prototipo1.JPG "Prototipo1")
+![Prototipo.2!](/imagenes/Prototipo2.JPG "Prototipo2")
+![Prototipo.3!](/imagenes/Prototipo3.JPG "Prototipo3")
+![Prototipo.4!](/imagenes/Prototipo4.JPG "Prototipo4")
 
 
 
