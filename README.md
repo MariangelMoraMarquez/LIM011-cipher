@@ -5,6 +5,12 @@ Es una webapp diseñada para agentes encubiertos que necesitan enviarse mensajes
 
 
 * La imagen final de tu proyecto.
+![Captura Pantalla] imagenes/CapturaPantalla/Diapositiva1.jpg "Pantalla 1")
+![Captura Pantalla] imagenes/CapturaPantalla/Diapositiva2.jpg "Pantalla 2")
+![Captura Pantalla] imagenes/CapturaPantalla/Diapositiva3.jpg "Pantalla 3")
+![Captura Pantalla] imagenes/CapturaPantalla/Diapositiva4.jpg "Pantalla 3")
+
+
 * Investigación UX:
   1. Explicar quiénes son los usuarios y los objetivos en relación con el
     producto.
