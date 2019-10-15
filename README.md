@@ -1,1 +1,1 @@
-![Captura Pantalla] (/imagenes/Diapositiva1.JPG "img")
+![Captura Pantalla] (/Imagenes/Diapositiva1.JPG "img")
