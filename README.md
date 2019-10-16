@@ -1,6 +1,6 @@
 # Code Block
 
-   Es una webapp diseñada para agentes encubiertos que necesitan enviar mensajes entre su organización y quieren ocultarlo para que nadie sepa de lo que esta o están hablando y solo entre ellos se entiendan. Esta webapp sirve básicamente para compartir e intercambiar mensajes cifrados y posteriormente descifrarlos utilizando como código el número de desplazamientos que el usuario desee. La fórmula utilizada se basa en el "Cifrado Cesar" una forma antigua de convertir un mensaje en otro, con el fin de que el mensaje inicial, sea difícil de entender por los demás. Consiste en sustituir una letra del texto original y reemplazarla por otra letra que se encuentra ubicada en un número fijo de posiciones señalado.
+   Es una webapp diseñada para agentes encubiertos que necesitan enviar mensajes entre su organización y quieren ocultarlo para que nadie sepa de lo que esta o están hablando y solo entre ellos se entiendan. Esta webapp sirve básicamente para compartir e intercambiar mensajes cifrados y posteriormente descifrarlos utilizando como código el número de desplazamientos que el usuario desee. La fórmula utilizada se basa en el "Cifrado Cesar" una forma antigua de convertir un mensaje en otro, con el fin de que el mensaje inicial, sea difícil de entender por los demás. Consiste en sustituir una letra del texto original y reemplazarla por otra letra que se encuentra ubicada en un número fijo de posiciones señaladas.
    
 ## Quiénes son los usuarios:
 
