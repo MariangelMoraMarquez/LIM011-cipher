@@ -23,6 +23,10 @@
 
 ## Feedback recibido: 
 
+Agregar el boton limpiar.
+Cambiar el color de las letras para que hiciera contraste con el fondo.
+Cambiar el color de los botones.
+
 ![Pantalla.1!](/imagenes/Diapositiva1.JPG "Pantalla1")
 ![Pantalla.2!](/imagenes/Diapositiva2.JPG "Pantalla2")
 ![Pantalla.3!](/imagenes/Diapositiva3.JPG "Pantalla3")
