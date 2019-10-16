@@ -39,7 +39,7 @@ Cambiar el color de los botones.
 2.	Escribe un texto en la primera casilla.
 2.	Ingresa un número de posiciones o desplazamientos.
 3.	Hacer clic en el boton "Cifrar" para encriptar el mensaje; o hacer clic en "Descifrar" para desencriptar el mensaje.
-4.  en la segunda casilla se muestra en mensaje cifrado o decifrado.
+4.  En la segunda casilla se muestra en mensaje cifrado o decifrado.
 
 ## 3. Objetivos de aprendizaje
 
