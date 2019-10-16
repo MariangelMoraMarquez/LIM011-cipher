@@ -11,7 +11,7 @@
    El objetivo de este proyecto es que dicho algoritmo sea utilizado en la organizacion para asegurar la información transmitida de manera que no pueda ser leído por terceros.
   
 ## Primer prototipo en papel:
-
+![PrimerPrototipo!](/imagenes/PrimerPrototipo.jpeg "PrimerPrototipo")
 
 
 ## Prototipo final:
