@@ -71,7 +71,7 @@ Reflexiona y luego marca los objetivos que has llegado a **entender** y **aplica
 
 - [X] Manipulación de strings.
 - [ ] Uso de condicionales (if-else | switch).
-- [ ] Uso de bucles (for | do-while).    
+- [ ] Uso de bucles (for | do-while).
 - [ ] Uso de funciones (parámetros | argumentos | valor de retorno).
 - [X] Declaración correcta de variables (const & let).
 
@@ -83,5 +83,5 @@ Reflexiona y luego marca los objetivos que has llegado a **entender** y **aplica
 - [ ] Manejo de repositorios de GitHub (clone | fork | gh-pages).
 
 ### Buenas prácticas de desarrollo
-- [ ] Uso de identificadores descriptivos (Nomenclatura | Semántica).
+- [X] Uso de identificadores descriptivos (Nomenclatura | Semántica).
 - [X] Uso de linter para seguir buenas prácticas (ESLINT).
