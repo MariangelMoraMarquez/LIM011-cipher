@@ -6,6 +6,27 @@ Por ejemplo, con un desplazamiento de 33, la A sería sustituida por la H (situa
 •	Alfabeto cifrado: HIJKLMNOPQRSTUVWXYZABCDEFG
 Este método debe su nombre a Julio César, que lo usaba para comunicarse con sus generales.
 
+## Quiénes son los usuarios:
+
+  La organizacion de agentes encubiertos de Lima.
+  
+## Objetivos:
+
+   El objetivo de este proyecto es que dicho algoritmo sea utilizado en la organizacion para asegurar la información transmitida de manera que no pueda ser leído por terceros.
+  
+## Primer prototipo en papel:
+
+
+
+## Prototipo final:
+
+![Prototipo.1!](/imagenes/Prototipo1.JPG "Prototipo1")
+![Prototipo.2!](/imagenes/Prototipo2.JPG "Prototipo2")
+![Prototipo.3!](/imagenes/Prototipo3.JPG "Prototipo3")
+![Prototipo.4!](/imagenes/Prototipo4.JPG "Prototipo4")
+
+## Feedback recibido: 
+
 ![Pantalla.1!](/imagenes/Diapositiva1.JPG "Pantalla1")
 ![Pantalla.2!](/imagenes/Diapositiva2.JPG "Pantalla2")
 ![Pantalla.3!](/imagenes/Diapositiva3.JPG "Pantalla3")
@@ -19,25 +40,6 @@ Este método debe su nombre a Julio César, que lo usaba para comunicarse con su
 2.	Ingresa un número de posiciones o desplazamientos.
 3.	Hacer clic en el boton "Cifrar" para encriptar el mensaje; o hacer clic en "Descifrar" para desencriptar el mensaje.
 4.  en la segunda casilla se muestra en mensaje cifrado o decifrado.
-
-## Quiénes son los usuarios:
-
-  La organizacion de agentes encubiertos de Lima.
-  
-## Objetivos:
-
-   El objetivo de este proyecto es que dicho algoritmo sea utilizado en la organizacion para asegurar la información transmitida de manera que no pueda ser leído por terceros.
-  
-## Primer prototipo en papel:
-
-
-Feedback Recibido.
-## Prototipo final:
-
-![Prototipo.1!](/imagenes/Prototipo1.JPG "Prototipo1")
-![Prototipo.2!](/imagenes/Prototipo2.JPG "Prototipo2")
-![Prototipo.3!](/imagenes/Prototipo3.JPG "Prototipo3")
-![Prototipo.4!](/imagenes/Prototipo4.JPG "Prototipo4")
 
 
 
