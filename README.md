@@ -63,7 +63,7 @@ Reflexiona y luego marca los objetivos que has llegado a **entender** y **aplica
 
 ### DOM
 
-- [X] Uso de selectores del DOM.
+- [ ] Uso de selectores del DOM.
 - [ ] Manejo de eventos del DOM.
 - [ ] Manipulación dinámica del DOM.
 
