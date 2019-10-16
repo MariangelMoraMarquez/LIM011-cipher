@@ -14,13 +14,13 @@ const cifrado = document.getElementById('cifrado');
 cifrado.addEventListener('click', () => {
   const textarea = document.getElementById('texto').value;
   const posicion = document.getElementById('posicion').value;
-  document.getElementById('resultado').innerHTML = window.cipher.encode(posicion, textarea);
+  document.getElementById('resultado').value = window.cipher.encode(posicion, textarea);
 });
 const decifrado = document.getElementById('decifrado');
 decifrado.addEventListener('click', () => {
   const textarea1 = document.getElementById('texto1').value;
   const posicion1 = document.getElementById('posicion1').value;
-  document.getElementById('resultado1').innerHTML = window.cipher.decode(posicion1, textarea1);
+  document.getElementById('resultado1').value = window.cipher.decode(posicion1, textarea1);
 });
 const regresar = document.getElementById('regresar');
 regresar.addEventListener('click', () => {
